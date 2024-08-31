@@ -32,7 +32,7 @@ Note: The Turtle module is part of the standard Python library, so you usually d
 5. The game ends when the snake collides with itself or the wall.
 
 ```bash
-python Main.py
+python main.py
 ```
 
 ## Files Description
